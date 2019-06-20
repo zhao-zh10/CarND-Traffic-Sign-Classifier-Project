@@ -1,0 +1,11 @@
+1. The reviewer's project repo:      https://github.com/viadanna/sdc-traffic-sign-classifier
+2. The documentation for numpy.where.          https://docs.scipy.org/doc/numpy/reference/generated/numpy.where.html
+3. Using Tensorflow to convert RGB images to grayscale.        https://www.tensorflow.org/api_docs/python/tf/image/rgb_to_grayscale
+4. Using image augmentation technique.          https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3#.wvp4g6hle
+5. Using TensorBoard to visualize the model architecture.       https://www.tensorflow.org/how_tos/graph_viz/
+6. Convolutional networks learning material.          http://www.deeplearningbook.org/contents/convnets.html
+7. Another shallow architecture with good results.         https://www.tensorflow.org/tutorials/estimators/cnn
+8. Pretrained Inception v3 model.       https://codelabs.developers.google.com/codelabs/cpb102-txf-learning/index.html?index=..%2F..%2Findex#0
+
+
+
